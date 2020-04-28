@@ -52,7 +52,7 @@ def info_view():
     output = {
         'Published on': 'Tuesday 28 April 2020',
         'Expires on': 'Tuesday 28 July 2020',
-        'Source code available at': 'GET /detect',
+        'Source code available at': 'https://github.com/somashekhar34/Agedetectionpythonanywhere',
     }
     return jsonify(output), 200
 
