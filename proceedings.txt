@@ -1,0 +1,29 @@
+start the project by creating an account at pythonanywhere.com
+Then create a flask project
+Then create a webapp
+options available:
+Dashboard
+Consoles
+Files
+Web
+Tasks
+Database
+
+Then go to Consoles and setup the environment:
+
+and enter the path in Virtualenv:(Ex:/home/somashekhar13/.virtualenvs/my-virtualenv)
+
+commands to be entered in bash:
+
+mkvirtualenv --python=/usr/bin/python3.6 my-virtualenv
+
+install the required packages:
+
+pip install flask
+pip install opencv-contrib-python
+
+Then go to Files:
+
+And add the required files to mysite/
+(refer the githublink:)
+
