@@ -1,4 +1,4 @@
-start the project by creating an account at pythonanywhere.com
+Start the project by creating an account at pythonanywhere.com
 Then create a flask project
 Then create a webapp
 options available:
